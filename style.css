@@ -1,6 +1,6 @@
 
 body {
 background-color: #d2b48c;
-  p.inset border-style: inset;
+  border: 2px solid black;
 }
 
