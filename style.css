@@ -4,7 +4,7 @@ body {
   border-width: 5px;
   border-style:inset;
   border-color: #00ffff;
-  text-color: #0000ff
+  text-color: #0000ff;
   text-shadow: 3px 4px 5px #00ffff;
   text-align: center;
   <h1>Text-shadow with blue neon glow</h1>
