@@ -4,12 +4,3 @@ body {
   border: 2px solid black;
   text-align: center;
 }
-.banner {
-  display: block;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  background: url(https://github.com/Reyesjr19/reyesjr19.github.io/blob/master/IMG_2044.jpg) no-repeat;
-  width: 214px;
-  height: 375px;
-  padding-left: 214px;
-}
