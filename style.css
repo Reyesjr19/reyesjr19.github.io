@@ -3,13 +3,13 @@ body {
   background-color: #d2b48c;
   border: 2px solid black;
   text-align: center;
-
 }
-#divID {
-  background-image: url(https://github.com/Reyesjr19/reyesjr19.github.io/blob/master/IMG_2044.jpg?raw=true");
-  background-repeat: no-repeat;
-  width: auto;
-  height: auto;
-  margin: 0;
-  padding: 0;
+.banner {
+  display: block;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background: url(https://github.com/Reyesjr19/reyesjr19.github.io/blob/master/IMG_2044.jpg?raw=true) no-repeat;
+  width: 214px;
+  height: 375px;
+  padding-left: 214px;
 }
