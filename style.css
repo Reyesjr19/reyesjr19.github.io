@@ -3,5 +3,6 @@ body {
   background-color: #809bff;
   border-width: 5px;
   border-style:inset;
+  border-color: black;
   text-align: center;
 }
