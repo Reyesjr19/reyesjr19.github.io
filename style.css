@@ -6,9 +6,5 @@ body {
   border-color: #00ffff;
    text-align: center;
  color: white;
-  text-shadow:
-    -1px -1px 0 #00ffff,
-    1px -1px 0 #00ffff,
-    -1px 1px 0 #00ffff,
-    1px 1px 0 #00ffff,
+  text-shadow: 2px 2px 4px #00ffff  
 }
