@@ -5,5 +5,5 @@ body {
   border-style:inset;
   border-color: #00ffff;
    text-align: center;
+  text-shadow: 0 0 0.2em #87f,
 }
-h3.c {text-shadow: 0 0 0.2em #87f,}
