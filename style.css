@@ -8,3 +8,7 @@ body {
  color: white;
   text-shadow: 3px 2px 3px #00ffff;
 }
+div {
+  text-align:justify;
+  text-justify:auto;
+}
