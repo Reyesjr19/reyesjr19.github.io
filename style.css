@@ -5,5 +5,10 @@ body {
   border-style:inset;
   border-color: #00ffff;
    text-align: center;
-  text-shadow: 2 4 1.2em #87f;
+ color: white;
+  text-shadow:
+    -1px -1px 0 #00ffff,
+    1px -1px 0 #00ffff,
+    -1px 1px 0 #00ffff,
+    1px 1px 0 #00ffff,
 }
